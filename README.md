@@ -8,4 +8,8 @@ Database
 
 ![database](https://user-images.githubusercontent.com/32599706/67180494-a27db900-f3fb-11e9-9040-b8809f6f1ca8.jpg)
 
+View ..which is comes from database 
+
+![view](https://user-images.githubusercontent.com/32599706/67180773-68f97d80-f3fc-11e9-8405-11554b4861b1.jpg)
+
 
